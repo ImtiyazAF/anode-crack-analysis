@@ -74,7 +74,6 @@ Most influential drivers:
 
 ---
 
-## 📷 Gallery  
 ## 📷 Gallery
 
 <table>
@@ -84,10 +83,14 @@ Most influential drivers:
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/shap.png" width="420" />
+      <a href="assets/shap.png">
+        <img src="assets/shap.png" width="420" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/crack_rate_layer.png" width="420" />
+      <a href="assets/crack_rate_layer.png">
+        <img src="assets/crack_rate_layer.png" width="420" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -96,10 +99,14 @@ Most influential drivers:
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/crack_rate_binder.png" width="420" />
+      <a href="assets/crack_rate_binder.png">
+        <img src="assets/crack_rate_binder.png" width="420" />
+      </a>
     </td>
     <td align="center">
-      <img src="assets/crack_rate_gedung.png" width="420" />
+      <a href="assets/crack_rate_gedung.png">
+        <img src="assets/crack_rate_gedung.png" width="420" />
+      </a>
     </td>
   </tr>
 </table>
