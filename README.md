@@ -75,14 +75,34 @@ Most influential drivers:
 ---
 
 ## 📷 Gallery  
+## 📷 Gallery
 
-| SHAP Feature Importance | Crack Rate by Layer |
-| :---: | :---: |
-| ![SHAP](assets/shap.png) | ![Layer](assets/crack_rate_layer.png) |
-
-| Binder Effect | Building Comparison |
-| :---: | :---: |
-| ![Binder](assets/crack_rate_binder.png) | ![Building](assets/crack_rate_gedung.png) |
+<table>
+  <tr>
+    <th align="center">SHAP Feature Importance</th>
+    <th align="center">Crack Rate by Layer</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/shap.png" width="420" />
+    </td>
+    <td align="center">
+      <img src="assets/crack_rate_layer.png" width="420" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Binder Effect</th>
+    <th align="center">Building Comparison</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/crack_rate_binder.png" width="420" />
+    </td>
+    <td align="center">
+      <img src="assets/crack_rate_gedung.png" width="420" />
+    </td>
+  </tr>
+</table>
 
 ---
 
