@@ -45,9 +45,7 @@ However, production involves many interacting parameters, making it difficult to
 ## 📂 Project Documentation  
 Technical documentation is available in the `docs/` folder:
 
-1. **[Methodology](docs/anode_crack_eda_report.pdf)** – Analysis workflow and ML pipeline  
-2. **[Feature Description](docs/anode_crack_eda_report.pdf)** – Process variable descriptions  
-3. **[Model Evaluation](docs/anode_crack_eda_report.pdf)** – Evaluation approach and results  
+1. **[Anode Crack Report](docs/anode_crack_eda_report.pdf)** – Anode Crack EDA With XAI Report   
 
 ---
 
